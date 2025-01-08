@@ -1,0 +1,1 @@
+This repository demonstrates common and uncommon errors in Dockerfiles.  The `Dockerfile` showcases problematic usage of the `ubuntu:latest` base image, the lack of a working directory specification and absence of cleanup after `apt-get`. The solution file (`DockerfileSolution.txt`) provides a corrected version demonstrating best practices.
